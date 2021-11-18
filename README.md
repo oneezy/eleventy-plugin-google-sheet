@@ -3,7 +3,7 @@ A LIVE list of 11ty Plugins being pulled in direct from Github! Whenever a new 1
 
 Play around with the [demo](https://rebrand.ly/11ty-plugins) or [make a copy](https://rebrand.ly/11ty-plugins-copy) to get started.
 
-[![image](https://user-images.githubusercontent.com/7369575/142451722-6118ae63-b646-4682-b643-75ef726c0cc3.png)](https://rebrand.ly/11ty-plugins)
+[![image](https://user-images.githubusercontent.com/7369575/142503248-277c9671-8443-46bf-9c3f-6039b96fc973.png)](https://rebrand.ly/11ty-plugins)
 
 ## 😃 Why did you make this?
 It was hard to keep track of all the new eleventy plugins being created! I also needed a way to track what plugins I had `enabled`, `disabled`, `tested`, or was `watching`.
