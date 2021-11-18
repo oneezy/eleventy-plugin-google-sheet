@@ -28,21 +28,19 @@ If you have some ideas or find any problems please [create an issue](https://git
 - [Paypal](https://www.paypal.me/oneezy)
 - [Cash App](https://cash.app/$oneeezy)
 - [Only Fans](https://www.youtube.com/watch?v=xvFZjo5PgG0)
-- **Crypto**
+- [Crypto](https://www.coinbase.com/join/oneill_1u)
 
-**BTC**
+
 ```
+// BTC
 3HjtDnWPQdXaAK7rRQ1PzH23B8YfCwJvkp
-```
-**ETH** 
-```
+
+// ETH 
 0x39B83c27a1696E2C48E55940376155dC946E1249
-```
-**DOGE** 
-```
+
+// DOGE 
 DHB6XmZnjvdNNyuPaN4DnzFqzXjDgN3MZg
-```
-**USDC** 
-```
+
+// USDC 
 0xffCA13E229D090278b755A1Ec7efC697feaa4C77
 ```
