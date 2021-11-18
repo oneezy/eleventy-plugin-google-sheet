@@ -20,6 +20,9 @@ It was hard to keep track of all the new eleventy plugins being created! I also 
 ## ❓ How does this work?
 Tons of Google Sheet functions and one amazing Google Sheets Extension called [SyncWith](https://syncwith.com/) 
 
+## ❤️️ Contributing
+If you have some ideas or find any problems please [create an issue](https://github.com/oneezy/eleventy-plugin-google-sheet/issues) to track! You can also reach out directly to me in the **11ty Discord** `@oneezy`
+
 ## 🍺 Buy me a beer?
 - [Patreon](https://www.patreon.com/oneezy)	
 - [Paypal](https://www.paypal.me/oneezy)
