@@ -1,7 +1,7 @@
 {
-  "name": "11ty-plugin-google-sheet",
+  "name": "eleventy-plugin-google-sheet",
   "version": "1.0.0",
-  "description": "A LIVE list of 11ty Plugins being pulled in direct from Github!",
+  "description": "A LIVE list of 11ty Plugins being pulled in from Github to a Google Sheet!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
