@@ -6,13 +6,12 @@ Play around with the [demo](https://rebrand.ly/11ty-plugins) or [make a copy](ht
 [![image](https://user-images.githubusercontent.com/7369575/142451722-6118ae63-b646-4682-b643-75ef726c0cc3.png)](https://rebrand.ly/11ty-plugins)
 
 ## 😃 Why did you make this?
-It was hard to keep up with all the new eleventy plugins being created! I needed a way to sort through new plugins while being able to track what plugins I had `enabled`, `disabled`, `testing`, or `watching`.
+It was hard to keep track of all the new eleventy plugins being created! I also needed a way to track what plugins I had `enabled`, `disabled`, `tested`, or was `watching`.
 ## 🚀 Links
 - [11ty Plugins Google Sheet](https://rebrand.ly/11ty-plugins)
 - [11ty Site](https://www.11ty.dev/)
 - ~~Explainer Video~~
 ## ✨ Instructions
-**Results Sheet**
 1. Make a copy of the 11ty Plugins Sheet
 2. Sort by the menus on the right
 3. Select plugins to use in the "Select" sheet
