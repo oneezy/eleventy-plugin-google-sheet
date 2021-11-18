@@ -23,7 +23,7 @@ Tons of Google Sheet functions and one amazing Google Sheets Extension called [S
 - [Patreon](https://www.patreon.com/oneezy)	
 - [Paypal](https://www.paypal.me/oneezy)
 - [Cash App](https://cash.app/$oneeezy)
-- [Only Fans](https://www.youtube.com/watch?v=QtBDL8EiNZo)
+- [Only Fans](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 - **Crypto**
 
 **BTC**
