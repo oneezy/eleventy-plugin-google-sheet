@@ -1,0 +1,25 @@
+{
+  "name": "11ty-plugin-google-sheet",
+  "version": "1.0.0",
+  "description": "A LIVE list of 11ty Plugins being pulled in direct from Github!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oneezy/11ty-plugin-google-sheet.git"
+  },
+  "keywords": [
+    "eleventy-plugin",
+    "11ty-plugin",
+    "11ty-google-sheet",
+    "eleventy-google-sheet"
+  ],
+  "author": "Justin O'Neill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oneezy/11ty-plugin-google-sheet/issues"
+  },
+  "homepage": "https://rebrand.ly/11ty-plugins"
+}
