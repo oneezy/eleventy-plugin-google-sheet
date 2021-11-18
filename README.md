@@ -1,5 +1,5 @@
 # 11ty-plugin-google-sheet
-A LIVE list of 11ty Plugins being pulled in direct from Github! Whenever a new 11ty plugin is added to Github you, the Google Sheet will automatically update!
+A LIVE list of 11ty Plugins being pulled in direct from Github! Whenever a new 11ty plugin is added to Github, the Google Sheet will automatically update!
 
 Play around with the [demo](https://rebrand.ly/11ty-plugins) or [make a copy](https://docs.google.com/spreadsheets/d/14OmzOjKxXxvl_5kMsPbn2hZziXPQEVaGVro_ctUmu7Q/copy) to get started.
 
